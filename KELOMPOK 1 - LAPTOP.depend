@@ -7,7 +7,7 @@
 	<gl/glut.h>
 	<math.h>
 
-881782880 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+1664190431 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
@@ -225,7 +225,11 @@
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+<<<<<<< HEAD
 1666422476 source:g:\aaaaa kuliah semester 5\grafika komputer\kelompok- 1\kelompok1-laptop\main.cpp
+=======
+1666526009 source:c:\users\user\documents\grafkom\kelompok1-laptop\main.cpp
+>>>>>>> cd79966952ff4cdcd6d037709c8ac0fd9ec61239
 	<gl/glut.h>
 	<math.h>
 
