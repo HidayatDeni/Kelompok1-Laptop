@@ -126,7 +126,7 @@ void laptop(void){
 //layar
     //lcd
     glBegin(GL_QUADS);
-    glColor3f(1,1,1);
+    glColor3f(0,0,1);
     glVertex3f(-67, 70, 5.5);
     glVertex3f(67, 70, 5.5);
     glVertex3f(67, -15, 5.5);
@@ -292,3 +292,4 @@ int main(int argc, char **argv){
     glutReshapeFunc(ukur);
     glutMainLoop();
 }
+//
